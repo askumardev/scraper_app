@@ -10,6 +10,7 @@ gem "puma", ">= 5.0"
 gem "nokogiri"
 gem "httparty"
 gem "csv"
+gem "pry"
 # Build JSON APIs with ease [https://github.com/rails/jbuilder]
 # gem "jbuilder"
 # Use Redis adapter to run Action Cable in production
